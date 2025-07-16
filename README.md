@@ -1,2 +1,3 @@
 # first_project
-İlk proje denemesi...
+
+fuat
